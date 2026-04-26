@@ -1,6 +1,6 @@
-<div align="center">
+<img width="2006" height="1244" alt="image" src="https://github.com/user-attachments/assets/48b19f44-b3cc-4dcd-8496-46b908eb22f1" /><div align="center">
   <br>
-  <img src="https://i.ibb.co/9kXFW04m/Screenshot-2026-04-26-150156.png" width="100" alt="Solvedge logo" />
+  <img src="https://d3o8hbmq1ueggw.cloudfront.net/6hex6%2Fpreview%2F77585561%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1777213422&Signature=Hu2iFMeTGzaPy78AposN-wJzr4BGsevAH551FO0U4QMwf0rJI1bvrOUO6UJ-LPUKvjlofs8gYp7~3RHanbu4L6E2kfnhEPtFvqnflZRZwyGGQxGSNnU2ubDTI4FiupS15uNuzshlszr4wZ7oOLwjt5RLCtjvnehM9gLXc7LAmk3rG512dFpRZP-ZdR8SdU9wvJpP3UkjxMv6hoEWRMoJ9vWQ-K6UovuBBkRJ6YnTZSQjZG3OpvAj79pmgRooOy9oqJmBz9wtvC1p584FW1vaI3AbWwY4gHuqeGn3Cpe~znkj~ZHx8t0x6kH3wgnzHwCcRjg9875GOkpHUWprOyWwBg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="100" alt="Solvedge logo" />
   <br><br>
   <h1>Solvedge</h1>
   <p><strong>Smart analytics & recommendations for Codeforces competitive programmers</strong></p>
@@ -67,25 +67,21 @@ No guesswork. No generic advice. Just your data, decoded.
 
 ### Dashboard Overview
 
-<img src="assets/screenshot-01.png" width="90%" alt="Dashboard overview" style="border-radius: 12px;" />
+<img src="https://github.com/user-attachments/assets/9397c2fb-920a-4dc6-9ca5-a23400ba2937" width="90%" alt="Dashboard overview" style="border-radius: 12px;" />
 
 <br><br>
 
 ### Tag Analytics & Weakness Detection
 
-<img src="assets/screenshot-02.png" width="90%" alt="Tag analytics" style="border-radius: 12px;" />
+<img src="https://i.ibb.co/HDNJYrNX/Screenshot-2026-04-26-142311.png" width="90%" alt="Tag analytics" style="border-radius: 12px;" />
+<img src="https://i.ibb.co/CS4N6Zw/Screenshot-2026-04-26-142400.png" width="90%" alt="Tag analytics" style="border-radius: 12px;" />
+
 
 <br><br>
 
-### Recommendation Engine
+### Recommendation Engine & Activity Heatmap
 
-<img src="assets/screenshot-03.png" width="90%" alt="Recommendations" style="border-radius: 12px;" />
-
-<br><br>
-
-### Activity Heatmap
-
-<img src="assets/screenshot-04.png" width="90%" alt="Heatmap" style="border-radius: 12px;" />
+<img src="https://i.ibb.co/sd83h6X5/Screenshot-2026-04-26-142418.png" width="90%" alt="Recommendations" style="border-radius: 12px;" />
 
 </div>
 
@@ -100,7 +96,7 @@ No guesswork. No generic advice. Just your data, decoded.
   <p>No sign-up. No setup. Just enter any Codeforces handle.</p>
   <br>
   <a href="https://solvedgedev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f0f23" alt="Open Live Demo" />
+    <img src="https://img.shields.io/badge/TRY%20IT%20NOW-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f0f23" alt="Open Live Demo" />
   </a>
 </div>
 
