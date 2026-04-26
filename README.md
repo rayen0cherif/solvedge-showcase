@@ -8,7 +8,7 @@
   <p><strong>Smart analytics & recommendations for Codeforces competitive programmers</strong></p>
   <br>
   <a href="https://solvedgedev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/TRY%20THE%20LIVE%20DEMO-solvedgedev.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f0f23" alt="Live" />
+    <img src="https://img.shields.io/badge/TRY%20IT%20NOW%20DEMO-solvedgedev.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0f0f23" alt="Live" />
   </a>
 </div>
 </p>
