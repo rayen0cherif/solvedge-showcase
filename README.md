@@ -1,6 +1,6 @@
-<img width="2006" height="1244" alt="image" src="https://github.com/user-attachments/assets/48b19f44-b3cc-4dcd-8496-46b908eb22f1" /><div align="center">
+
   <br>
-  <img src="https://d3o8hbmq1ueggw.cloudfront.net/6hex6%2Fpreview%2F77585561%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1777213422&Signature=Hu2iFMeTGzaPy78AposN-wJzr4BGsevAH551FO0U4QMwf0rJI1bvrOUO6UJ-LPUKvjlofs8gYp7~3RHanbu4L6E2kfnhEPtFvqnflZRZwyGGQxGSNnU2ubDTI4FiupS15uNuzshlszr4wZ7oOLwjt5RLCtjvnehM9gLXc7LAmk3rG512dFpRZP-ZdR8SdU9wvJpP3UkjxMv6hoEWRMoJ9vWQ-K6UovuBBkRJ6YnTZSQjZG3OpvAj79pmgRooOy9oqJmBz9wtvC1p584FW1vaI3AbWwY4gHuqeGn3Cpe~znkj~ZHx8t0x6kH3wgnzHwCcRjg9875GOkpHUWprOyWwBg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="100" alt="Solvedge logo" />
+  <img src="https://d3o8hbmq1ueggw.cloudfront.net/6hex6%2Fpreview%2F77585561%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1777213422&Signature=Hu2iFMeTGzaPy78AposN-wJzr4BGsevAH551FO0U4QMwf0rJI1bvrOUO6UJ-LPUKvjlofs8gYp7~3RHanbu4L6E2kfnhEPtFvqnflZRZwyGGQxGSNnU2ubDTI4FiupS15uNuzshlszr4wZ7oOLwjt5RLCtjvnehM9gLXc7LAmk3rG512dFpRZP-ZdR8SdU9wvJpP3UkjxMv6hoEWRMoJ9vWQ-K6UovuBBkRJ6YnTZSQjZG3OpvAj79pmgRooOy9oqJmBz9wtvC1p584FW1vaI3AbWwY4gHuqeGn3Cpe~znkj~ZHx8t0x6kH3wgnzHwCcRjg9875GOkpHUWprOyWwBg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="300" alt="Solvedge logo" />
   <br><br>
   <h1>Solvedge</h1>
   <p><strong>Smart analytics & recommendations for Codeforces competitive programmers</strong></p>
