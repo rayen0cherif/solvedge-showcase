@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="https://d3o8hbmq1ueggw.cloudfront.net/6j7x6%2Fpreview%2F77585311%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1777212506&Signature=c0DH9gG8pg1IvdDd3gBP516kdYY2F6G3f28pDjQAyfEGHFddM1ab499eysGL-g7CLY6I0TD3C3PL1yf4CV1w8Hm0Tu4LH01kGeRWbHNvivxQPy3RhTx0cE40k0loc1iVW6ir6Eits7lz2oDoJrY1NCzSiODuGkaQ9-MRZM1j37VyqjQ6MbvUuDDrd1OuG0bDC0zs0693pZmFpJfSMVOl~JVWl5eDkErFr0UTkex5AoVyX5di2RNSj8mbZ~lflyOFlyRlmUGDoXFtMFOYN5TpqVrES6mDwjPjlMRxCMfWTPGOJDL7NQEIniRITGdF8YJIqtE~~iMrnpg9bfnlR9h1oQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="100" alt="Solvedge logo" />
+  <img src="https://i.ibb.co/9kXFW04m/Screenshot-2026-04-26-150156.png" width="100" alt="Solvedge logo" />
   <br><br>
   <h1>Solvedge</h1>
   <p><strong>Smart analytics & recommendations for Codeforces competitive programmers</strong></p>
